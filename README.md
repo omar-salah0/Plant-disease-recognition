@@ -12,4 +12,4 @@ Developed a robust plant disease recognition system leveraging deep learning and
 
 For a detailed description of the project, please refer to the attached paper included in the files.
 
-# here is dataset link: https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/data
+here is dataset link: https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/data
